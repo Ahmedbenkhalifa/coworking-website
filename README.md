@@ -37,10 +37,6 @@
 
 Second version of <a href="https://www.codehub.tn" target="_blank">www.codehub.tn</a>
 
-### Forking this project
-
-If someone wants to use this code on his own website, the answer is **YES** BUT please with credits !
-I've spent a non-trivial amount of effort building and designing this iteration of this website, and i am proud of it!
 
 ### Screenshots
 
